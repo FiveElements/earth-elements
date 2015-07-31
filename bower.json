@@ -1,0 +1,31 @@
+{
+  "name": "earth-elements",
+  "version": "0.0.1",
+  "description": "A set of elements that working with  water, fire, air elements",
+  "main": "earth-elements.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "five-elements",
+    "earth-elements"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FiveElements/earth-elements.git"
+  },
+  "homepage": "https://github.com/FiveElements/earth-elements",
+  "authors": [
+    "FiveElement Authors"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "gulpfile.js"
+  ],
+  "dependencies": {
+  }
+}
