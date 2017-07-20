@@ -1,6 +1,6 @@
 {
   "name": "earth-elements",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "description": "A set of elements that working with  water, fire, air elements",
   "main": "earth-elements.html",
   "keywords": [
@@ -27,5 +27,6 @@
     "gulpfile.js"
   ],
   "dependencies": {
+    "earth-cruddy": "FiveElements/earth-cruddy#^2.0.0",
   }
 }
