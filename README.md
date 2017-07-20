@@ -1,5 +1,5 @@
 # \<earth-elements>
-Polymer 2 Earth Elements manage the component to construct IHM like layout.
+Polymer 2 Earth Elements manage the component with role of container in order to construct IHM like layout.
 
 ## Web-Components
 | Tag | Build Status | Description |
